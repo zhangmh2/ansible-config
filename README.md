@@ -1,6 +1,4 @@
-
-Ansible Examples
+Ansible config
 ----------------
 
-This repository contains examples and best practices for building Ansible Playbooks.
-
+ansible  config 
